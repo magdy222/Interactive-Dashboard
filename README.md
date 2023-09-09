@@ -1,0 +1,2 @@
+# Interactive-Dashboard
+ The interactive dashboard built with React, React Hooks, React-Sidebar, Mui, Mui-DataGrid, FullCalendar, and Nivo Charts offers a user-friendly interface for data visualization. It integrates powerful features like customizable components, efficient data rendering, interactive calendars, and visually appealing charts. This dashboard empowers users to gain valuable insights and make informed decisions effortlessly.
